@@ -25,8 +25,6 @@ Once you have created an instance of the Solana class, you can use the various m
 JavaScript
 
 const balance = await solana.getBalance('YOUR_ACCOUNT_ADDRESS');
-API Reference
-The following is a list of the available APIs:
 
 getBalance(address)
 getAccountInfo(address)
